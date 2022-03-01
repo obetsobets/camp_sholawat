@@ -1,0 +1,29 @@
+body {
+	background-color: #92a8d1;
+}
+p {
+	font-family: cursive;
+}
+
+place {
+	font-weight: bold;
+	font-style: italic;
+	color: #1E8449;
+}
+
+.person {
+	font-weight: bold;
+	font-style: italic;
+	color: #E74C3C;
+	cursor: pointer;
+}
+
+#obets {
+	font-size: 26px;
+}
+
+arabic{
+	font-size: 20px;
+}
+
+
